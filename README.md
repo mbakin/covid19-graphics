@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <hr>
 
 ###**Save local**
-`git clone https://github.com/mbakin/covid19-chart.git`
+`git clone https://github.com/mbakin/covid19-graphics.git`
 
 ###**Start**
 `npm start`
